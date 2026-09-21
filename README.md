@@ -38,6 +38,10 @@
   </tr>
 </table>
 
+> [!WARNING]
+> **Este repositorio ya no recibirá más actualizaciones.**
+> Todo el contenido de este proyecto ha sido migrado y ampliado en **[Linux Core](https://github.com/nisamov/linuxcore)**, una versión mucho más avanzada que incluye todo el contenido de LinuxCommands, un nuevo orden y mayor accesibilidad.
+
 ---
 
 # LinuxCommands
